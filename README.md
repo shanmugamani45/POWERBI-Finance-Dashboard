@@ -1,7 +1,7 @@
 ## Retail Sales Dashboard
 
 ### Objective
-Analyze regional sales performance and identify profit-driving categories.
+The main objective of this project is to create interactive and professional dashboards that help users analyze data and make better decisions. The project focuses on improving skills in data visualization, business intelligence, data analysis, and dashboard development using Power BI. It also aims to present complex data in a simple visual format to identify trends, monitor performance, and generate useful business insights.
 
 ### Tools
 - Power BI
